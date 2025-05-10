@@ -8,7 +8,7 @@ const pool = new Pool({
   user: 'summeradmin',         // ← Your PostgreSQL username
   host: 'localhost',
   database: 'smartsummer',     // ← Your PostgreSQL database name
-  password: '55553',  // ← Update to your actual password
+  password: '5555',  // ← Update to your actual password
   port: 5432,
 });
 
